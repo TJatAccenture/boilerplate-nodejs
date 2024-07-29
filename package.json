@@ -1,0 +1,21 @@
+{
+  "name": "boilerplate-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:TJatAccenture/boilerplate-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "istanbul": "^0.4.5",
+    "mocha": "^10.7.0",
+    "nyc": "^17.0.0"
+  }
+}
